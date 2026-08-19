@@ -81,13 +81,9 @@ jupyter notebook
 
 Open the notebook and run the cells.
 
-## 📚 Learning Source
-
-This project was implemented as part of my **100 Days of Machine Learning learning journey**, based on concepts covered in the CampusX ML course.
-
 ## 👨‍💻 Author
 
 **Prabhat Dubey**
 
-GitHub: [Prabhat325](https://github.com/Prabhat325)
+GitHub: [prabhat325](https://github.com/prabhat325)
 
